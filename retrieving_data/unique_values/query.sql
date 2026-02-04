@@ -1,2 +1,2 @@
-SELECT DISTINCT region
+SELECT DISTINCT continent
 From country;
