@@ -1,2 +1,2 @@
-SELECT continent and population,
-From country;
+SELECT continent,population
+FROM country;
