@@ -1,1 +1,3 @@
-SELECT DI
+SELECT DISTINCT region
+From country
+Limit 4;
